@@ -53,7 +53,7 @@ This repository contains the complete workflow for a **Credit Risk Modeling** pr
    Ensure required libraries like `xgboost`, `pandas`, and `sklearn` are installed.
 
 2. View the summary presentation: `Credit Risk Strategy - Amex.pptx`  
-   Ideal for showcasing to stakeholders or including in a project report.
+  
 
 ---
 
